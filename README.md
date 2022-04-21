@@ -1,2 +1,2 @@
-# -ProgrammingAssignment2 
+# ProgrammingAssignment2 
 Coursera project
